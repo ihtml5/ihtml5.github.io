@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "有关数据可视化的一些网站(转载)"
+date:   2016-04-18 08:43:59
+author: ihtml5
+categories: [datav]
+tags: d3 javascript
+cover: /assets/instacode.png
+description: '转载的和数据可视化有关的网站和书籍'
+---
+
+### **Website**
+1. [Teaching a Semester of D3.js](http://blogger.ghostweather.com/search/label/d3)
+2. [Interactive Data Vis Course Repo](http://arnicas.github.io/interactive-vis-course/index.html)
+3. [OUR D3.JS](http://www.ourd3js.com/wordpress/)
+4. [Data Visulization with JavaScript ](http://jsdatav.is/)
+5. [FrankWang](http://computational-thinking.farbox.com/)
+
+### **Books**
+1. Roger Spence，信息可视化-交互设计，机械工业出版社，2012。（主要参考书）
+2. E. Tuffe，Envisioning Information，Chinese Press，1990
+3. Colin Ware, Information Visualization: Perception for Design, Morgan-Kaufman, 2004
+4. [《数据可视化实战：使用D3设计交互式图表》](http://www.ituring.com.cn/book/1126)
+5. [《视不可当：信息图与可视化传播》](http://www.ituring.com.cn/book/1012)
+6. [《鲜活的数据：数据可视化指南》](http://www.ituring.com.cn/book/819)
+7. [《图解力：跟顶级设计师学作信息图》](http://www.ituring.com.cn/book/1017)
+
+
