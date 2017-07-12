@@ -45,17 +45,11 @@ categories: [deep into react]
 
 6.**fetch**
 
-<<<<<<< HEAD
   [fetch spec](https://fetch.spec.whatwg.org/)使用promise接口来进行后端接口请求，相比ajax来说，使用更加方便，在项目中，
   推荐使用fetch的[官方实现](https://github.com/github/fetch)
 
-
-7. **构建工具(webpack)**
-=======
-  [fetch spec](https://fetch.spec.whatwg.org/)使用promise接口来进行后端接口请求，相比ajax来说，使用更加方便，在项目中，推荐使用fetch的[官方实现](https://github.com/github/fetch)
  
 7.**构建工具(webpack)**
->>>>>>> f1cfd6be6a447571dd4b11ff2a17f160b48bd46f
 
    [webpack](http://webpack.js.org)是社区公认的优秀打包工具，和react非常搭。配合[gulp](http://gulpjs.com/)来完成流畅地前端开发。
 
@@ -70,7 +64,6 @@ categories: [deep into react]
 10.**异步数据流处理**
 
   对于简单的异步数据处理我们可以使用[redux-thunk](https://github.com/gaearon/redux-thunk)或者[redux-promise](https://github.com/acdlite/redux-promise),对于复杂的异步交互，可以使用[redux-observable](http://www.github.com/redux-observable/redux-observable)和[redux-sagas](https://github.com/redux-saga/redux-saga)
-
 
 
 ### 相关链接
